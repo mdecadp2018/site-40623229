@@ -5,4 +5,4 @@
 
 簡報:https://mdecadp2018.github.io/site-40623229/reveal
 
-網誌:https://mdecadp2018.github.io/site-40623229
+網誌:https://mdecadp2018.github.io/site-40623229/blog

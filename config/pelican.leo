@@ -19,6 +19,7 @@
 <v t="yen.20170108171733.4"><vh>@edit .gitignore</vh></v>
 <v t="leo.20170908162839.1" a="E"><vh>沒有 disqus 論壇</vh>
 <v t="yen.20170108171733.2"><vh>@button local-blog</vh></v>
+<v t="leo.20181022214814.1"><vh>newHeadline</vh></v>
 </v>
 <v t="leo.20170908162904.1" a="E"><vh>有 disqus 論壇</vh>
 <v t="leo.20170709224430.1"><vh>@button github-blog</vh></v>
@@ -105,6 +106,31 @@ g.es("admin pelican Github 執行完畢")
 <t tx="leo.20180115115910.1"></t>
 <t tx="leo.20180115142025.1"></t>
 <t tx="leo.20180423103639.1"></t>
+<t tx="leo.20181022214814.1">@color
+@language python
+
+import os
+import subprocess
+import threading
+import http.server, ssl
+
+def domake():
+    # build directory
+    #os.chdir("./../")
+    server_address = ('localhost', 8444)
+    httpd = http.server.HTTPServer(server_address, http.server.SimpleHTTPRequestHandler)
+    httpd.socket = ssl.wrap_socket(httpd.socket,
+                                   server_side=True,
+                                   certfile='localhost.crt',
+                                   keyfile='localhost.key',
+                                   ssl_version=ssl.PROTOCOL_TLSv1)
+    print(os.getcwd())
+    print("8444 https server started")
+    httpd.serve_forever()
+
+# 利用執行緒執行 https 伺服器
+make = threading.Thread(target=domake)
+make.start()</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/

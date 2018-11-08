@@ -24,6 +24,27 @@
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
+<v t="leo.20181108182905.1" a="E"><vh>w1投影片</vh>
+<v t="leo.20181108182905.2"><vh>w1</vh></v>
+</v>
+<v t="leo.20181108182914.1" a="E"><vh>w2投影片</vh>
+<v t="leo.20181108182914.2"><vh>w2</vh></v>
+</v>
+<v t="leo.20181108184307.1" a="E"><vh>w3投影片</vh>
+<v t="leo.20181108184307.2"><vh>w3</vh></v>
+</v>
+<v t="leo.20181108184316.1" a="E"><vh>w4投影片</vh>
+<v t="leo.20181108184316.2"><vh>w4</vh></v>
+</v>
+<v t="leo.20181108184323.1" a="E"><vh>w5投影片</vh>
+<v t="leo.20181108184323.2"><vh>w5</vh></v>
+</v>
+<v t="leo.20181108184337.1" a="E"><vh>w6投影片</vh>
+<v t="leo.20181108184337.2"><vh>w6</vh></v>
+</v>
+<v t="leo.20181108184342.1" a="E"><vh>w7投影片</vh>
+<v t="leo.20181108184342.2"><vh>w7</vh></v>
+</v>
 <v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
@@ -129,7 +150,7 @@ vertical: body pane on the botton</t>
 ### 虎科大機械設計工程系
 
 &lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
+Created by [40623229](http://lab.kmol.info/)
 &lt;/small&gt;
 
 [2018 Fall 分組網誌](./../blog/index.html)
@@ -325,6 +346,105 @@ make.start()
 
 
 						
+</t>
+<t tx="leo.20181108182905.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181108182905.2"># week1
+
+* 建立40623201.github.io的倉儲並在近端動態網頁做修改
+* 上課必須要帶隨身碟、筆記本、耳機。
+* 鼓勵各個同學新學期新希望，努力從現在開始，把握可以學習的時光
+* 什麼是 onshape?</t>
+<t tx="leo.20181108182914.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181108182914.2"># Week2
+
+* 學習如何用 ShareX 取圖
+* 領取期中作業倉儲做管理
+* 建立Onshape 帳號
+</t>
+<t tx="leo.20181108184307.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181108184307.2"># Week3
+
+* 中秋節放假
+</t>
+<t tx="leo.20181108184316.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181108184316.2"># Week4
+
+* 期中倉儲、網誌、投影片管理方法
+* 學習如何使用Onshape繪製簡單圖形
+* Onshape Homework 1
+</t>
+<t tx="leo.20181108184323.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181108184323.2"># Week5
+
+* Pyslvs介紹
+* 熟悉Onshape功能
+* Onshape Homeeork 2
+</t>
+<t tx="leo.20181108184337.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181108184337.2"># Week6
+
+* 不懂的英文單字要查，英文要從平時開始著手練習，沒有英文能力，就等於沒有了專業的技能，大多程式網站都已英文撰寫，要看的懂。
+</t>
+<t tx="leo.20181108184342.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181108184342.2"># Week7
+
+* 
 </t>
 </tnodes>
 </leo_file>

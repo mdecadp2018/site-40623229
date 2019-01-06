@@ -45,6 +45,21 @@
 <v t="leo.20181108184342.1" a="E"><vh>w7投影片</vh>
 <v t="leo.20181108184342.2"><vh>w7</vh></v>
 </v>
+<v t="leo.20190106224716.1" a="E"><vh>w8投影片</vh>
+<v t="leo.20190106224716.2"><vh>w8</vh></v>
+</v>
+<v t="leo.20190106225222.1" a="E"><vh>w9投影片</vh>
+<v t="leo.20190106225222.2"><vh>w9</vh></v>
+</v>
+<v t="leo.20190106225300.1" a="E"><vh>w10投影片</vh>
+<v t="leo.20190106225300.2"><vh>w10</vh></v>
+</v>
+<v t="leo.20190106225303.1" a="E"><vh>w11~15投影片</vh>
+<v t="leo.20190106225303.2"><vh>w11~15</vh></v>
+</v>
+<v t="leo.20190106231530.1" a="E"><vh>w16~17投影片</vh>
+<v t="leo.20190106231530.2"><vh>w16~17</vh></v>
+</v>
 <v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
@@ -361,7 +376,9 @@ make.start()
 * 建立40623229.github.io的倉儲並在近端動態網頁做修改
 * 上課必須要帶隨身碟、筆記本、耳機。
 * 鼓勵各個同學新學期新希望，努力從現在開始，把握可以學習的時光
-* 什麼是 onshape?</t>
+* 什麼是 onshape?
+
+</t>
 <t tx="leo.20181108182914.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -446,5 +463,78 @@ make.start()
 
 * 
 </t>
+<t tx="leo.20190106224716.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190106224716.2"># Week8
+
+* 機電資整合設計專案流程
+</t>
+<t tx="leo.20190106225222.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190106225222.2"># Week9
+
+* 自評成績
+*期末分組倉儲clone下來
+</t>
+<t tx="leo.20190106225300.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190106225300.2"># Week10
+
+* 更新 P37&gt;&gt;P37-18.11
+*決定專題題目- 機械計時器</t>
+<t tx="leo.20190106225303.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190106225303.2"># Week11~15
+
+* 更新個人git
+*人員之工作分配
+* 找尋有關機械計時器的相關資料
+*更新個人git
+* 計時器資料更新
+*組員繪製齒輪以及輪盤
+* 了解如何將Onshape 導入v-rep
+
+</t>
+<t tx="leo.20190106231530.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190106231530.2"># Week16~17
+
+* 組員統整剩下畫完的材料
+*將心得撰寫完畢並且更新</t>
 </tnodes>
 </leo_file>

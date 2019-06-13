@@ -24,41 +24,26 @@
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181108182905.1" a="E"><vh>w1投影片</vh>
-<v t="leo.20181108182905.2"><vh>w1</vh></v>
+<v t="leo.20181108182905.1" a="E"><vh>w10投影片</vh>
+<v t="leo.20181108182905.2"><vh>w10</vh></v>
 </v>
-<v t="leo.20181108182914.1" a="E"><vh>w2投影片</vh>
-<v t="leo.20181108182914.2"><vh>w2</vh></v>
+<v t="leo.20181108182914.1" a="E"><vh>w11投影片</vh>
+<v t="leo.20181108182914.2"><vh>w11</vh></v>
 </v>
-<v t="leo.20181108184307.1" a="E"><vh>w3投影片</vh>
-<v t="leo.20181108184307.2"><vh>w3</vh></v>
+<v t="leo.20181108184307.1" a="E"><vh>w12投影片</vh>
+<v t="leo.20181108184307.2"><vh>w12</vh></v>
 </v>
-<v t="leo.20181108184316.1" a="E"><vh>w4投影片</vh>
-<v t="leo.20181108184316.2"><vh>w4</vh></v>
+<v t="leo.20181108184316.1" a="E"><vh>w13投影片</vh>
+<v t="leo.20181108184316.2"><vh>w13</vh></v>
 </v>
-<v t="leo.20181108184323.1" a="E"><vh>w5投影片</vh>
-<v t="leo.20181108184323.2"><vh>w5</vh></v>
+<v t="leo.20181108184323.1" a="E"><vh>w14投影片</vh>
+<v t="leo.20181108184323.2"><vh>w14</vh></v>
 </v>
-<v t="leo.20181108184337.1" a="E"><vh>w6投影片</vh>
-<v t="leo.20181108184337.2"><vh>w6</vh></v>
+<v t="leo.20181108184337.1" a="E"><vh>w15投影片</vh>
+<v t="leo.20181108184337.2"><vh>w15</vh></v>
 </v>
-<v t="leo.20181108184342.1" a="E"><vh>w7投影片</vh>
-<v t="leo.20181108184342.2"><vh>w7</vh></v>
-</v>
-<v t="leo.20190106224716.1" a="E"><vh>w8投影片</vh>
-<v t="leo.20190106224716.2"><vh>w8</vh></v>
-</v>
-<v t="leo.20190106225222.1" a="E"><vh>w9投影片</vh>
-<v t="leo.20190106225222.2"><vh>w9</vh></v>
-</v>
-<v t="leo.20190106225300.1" a="E"><vh>w10投影片</vh>
-<v t="leo.20190106225300.2"><vh>w10</vh></v>
-</v>
-<v t="leo.20190106225303.1" a="E"><vh>w11~15投影片</vh>
-<v t="leo.20190106225303.2"><vh>w11~15</vh></v>
-</v>
-<v t="leo.20190106231530.1" a="E"><vh>w16~17投影片</vh>
-<v t="leo.20190106231530.2"><vh>w16~17</vh></v>
+<v t="leo.20181108184342.1" a="E"><vh>w16投影片</vh>
+<v t="leo.20181108184342.2"><vh>w16</vh></v>
 </v>
 <v t="leo.20190106233601.1" a="E"><vh>心得</vh>
 <v t="leo.20190106233601.2"><vh>心得</vh></v>
@@ -163,7 +148,7 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10">## 2019spring 分組網際簡報
+<t tx="leo.20180827201621.10">## 2019spring 協同產品設計實習期末
 
 ### 虎科大機械設計工程系
 
@@ -374,12 +359,11 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181108182905.2"># week1
+<t tx="leo.20181108182905.2"># week10
 
-* 建立40623229.github.io的倉儲並在近端動態網頁做修改
-* 上課必須要帶隨身碟、筆記本、耳機。
-* 鼓勵各個同學新學期新希望，努力從現在開始，把握可以學習的時光
-* 什麼是 onshape?
+* 第十週還沒有明確的手足球模擬出來，在課堂上老師先將資料傳遞給我們讓我們有稍微的概念
+
+
 
 </t>
 <t tx="leo.20181108182914.1">&lt;section data-markdown&gt;
@@ -391,11 +375,9 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181108182914.2"># Week2
+<t tx="leo.20181108182914.2"># Week11
 
-* 學習如何用 ShareX 取圖
-* 領取期中作業倉儲做管理
-* 建立Onshape 帳號
+* 這週老師有上一點手足球如何製作以及要分配工作，但是我們這組還沒有明確規定要做甚麼
 </t>
 <t tx="leo.20181108184307.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -406,9 +388,9 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181108184307.2"># Week3
+<t tx="leo.20181108184307.2"># Week12
 
-* 中秋節放假
+* 到了第12週終於有分配工作的項目出來了內容都有重複，因此大部分的人在做一樣的事，我負責到的是手足球vrep的模擬製作
 </t>
 <t tx="leo.20181108184316.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -419,11 +401,9 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181108184316.2"># Week4
+<t tx="leo.20181108184316.2"># Week13
 
-* 期中倉儲、網誌、投影片管理方法
-* 學習如何使用Onshape繪製簡單圖形
-* Onshape Homework 1
+* 這週是繪圖的同組員在繪製整個手足球場，將概要大略的畫出來，因此還無法將手足球場丟入vrep模擬
 </t>
 <t tx="leo.20181108184323.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -434,11 +414,9 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181108184323.2"># Week5
+<t tx="leo.20181108184323.2"># Week14
 
-* Pyslvs介紹
-* 熟悉Onshape功能
-* Onshape Homeeork 2
+* 將畫好的手足球台放入vrep裡面然後設定各個需要的參數，這個部分做到一半沒有模擬出來讓它做動
 </t>
 <t tx="leo.20181108184337.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -449,9 +427,9 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181108184337.2"># Week6
+<t tx="leo.20181108184337.2"># Week15
 
-* 不懂的英文單字要查，英文要從平時開始著手練習，沒有英文能力，就等於沒有了專業的技能，大多程式網站都已英文撰寫，要看的懂。
+*開始整理倉儲以及更新每週心得
 </t>
 <t tx="leo.20181108184342.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -462,86 +440,9 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181108184342.2"># Week7
+<t tx="leo.20181108184342.2"># Week16
 
-* 
-</t>
-<t tx="leo.20190106224716.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20190106224716.2"># Week8
-
-* 機電資整合設計專案流程
-</t>
-<t tx="leo.20190106225222.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20190106225222.2"># Week9
-
-* 自評成績
-* 期末分組倉儲clone下來
-</t>
-<t tx="leo.20190106225300.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20190106225300.2"># Week10
-
-* 更新 P37&gt;&gt;P37-18.11
-* 決定專題題目- 機械計時器
-
-</t>
-<t tx="leo.20190106225303.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20190106225303.2"># Week11~15
-
-* 更新個人git
-* 人員之工作分配
-* 找尋有關機械計時器的相關資料
-* 更新個人git
-* 計時器資料更新
-* 組員繪製齒輪以及輪盤
-* 了解如何將Onshape 導入v-rep
-
-</t>
-<t tx="leo.20190106231530.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20190106231530.2"># Week16~17
-
-* 組員統整剩下畫完的材料
-* 將心得撰寫完畢並且更新
-
+*手足球零件表用word打成表格
 </t>
 <t tx="leo.20190106233601.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -554,11 +455,7 @@ make.start()
 </t>
 <t tx="leo.20190106233601.2">## 心得
 
-* 這學期學到的東西不計其數，程式對我來說更是一大需要花時間去想去撰寫
-   上學期和下學期的方式不太一樣，上學期是以個人的方式去完成，下半學期
-   是需要各位成員一起完成的，一個團隊需要大家的幫忙才能夠完成一件事，
-   而我們做得不夠好，更需要去學習一起分擔工作，往後的程式課會更積極的
-   去完成它
+* 這學期上半學期和下半學期有很大的不同上半學期著重在個人的部分，上半學期主要在學期老師教我們運用可攜的方便性，不用帶著電腦到處跑，簡單的隨身碟就可以帶著走也能寫程式推東西，以及讓我們研究實習任務裡的內容，下半學期主要是分組進行完成手足球，也顯得分配工作的重要性，一個規畫好的任務而沒有分配好確實會帶來很多問題，也會有不知道做什麼才好的問題，除了老師上課教的，當自己回去做也會發現許多問題，而如何一一解決也是這門課老師要我們學會的東西，這門協同課雖然有很多沒有學過的也有很多無法現階段理解的，但能學多少就去學多少。
 
 </t>
 </tnodes>

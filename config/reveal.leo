@@ -163,7 +163,7 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10">## 2018Fall 分組網際簡報
+<t tx="leo.20180827201621.10">## 2019spring 分組網際簡報
 
 ### 虎科大機械設計工程系
 
@@ -171,7 +171,7 @@ vertical: body pane on the botton</t>
 Created by [40623229](http://lab.kmol.info/)
 &lt;/small&gt;
 
-[2018 Fall 分組網誌](./../blog/index.html)
+[2019 spring 分組網誌](./../blog/index.html)
 
 
 </t>
@@ -505,7 +505,9 @@ make.start()
 <t tx="leo.20190106225300.2"># Week10
 
 * 更新 P37&gt;&gt;P37-18.11
-* 決定專題題目- 機械計時器</t>
+* 決定專題題目- 機械計時器
+
+</t>
 <t tx="leo.20190106225303.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -538,7 +540,9 @@ make.start()
 <t tx="leo.20190106231530.2"># Week16~17
 
 * 組員統整剩下畫完的材料
-* 將心得撰寫完畢並且更新</t>
+* 將心得撰寫完畢並且更新
+
+</t>
 <t tx="leo.20190106233601.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -554,6 +558,8 @@ make.start()
    上學期和下學期的方式不太一樣，上學期是以個人的方式去完成，下半學期
    是需要各位成員一起完成的，一個團隊需要大家的幫忙才能夠完成一件事，
    而我們做得不夠好，更需要去學習一起分擔工作，往後的程式課會更積極的
-   去完成它</t>
+   去完成它
+
+</t>
 </tnodes>
 </leo_file>

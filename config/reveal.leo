@@ -422,7 +422,7 @@ make.start()
 </t>
 <t tx="leo.20181108184323.2"># Week14
 
-* 將畫好的手足球台放入vrep裡面然後設定各個需要的參數，這個部分做到一半沒有模擬出來讓它做動
+* 將畫好的手足球台放入vrep裡面然後設定各個需要的參數，我這個部分做到一半沒有模擬出來讓它做動
 </t>
 <t tx="leo.20181108184337.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;

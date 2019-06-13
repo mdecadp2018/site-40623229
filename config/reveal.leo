@@ -154,6 +154,10 @@ vertical: body pane on the botton</t>
 
 #### 虎科大機械設計工程系
 
+##### 設計二乙 40623229 陳宥安
+
+###### 教師:嚴家銘
+
 &lt;small&gt;
 Created by [40623229](http://lab.kmol.info/)
 &lt;/small&gt;
